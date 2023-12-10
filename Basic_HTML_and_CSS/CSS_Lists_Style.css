@@ -1,0 +1,9 @@
+/* CSS_Lists.css */
+
+ol {
+    list-style-type: lower-alpha; /* Change to your desired list-style-type for ordered lists */
+}
+
+ul {
+    list-style-type: circle; /* Change to your desired list-style-type for unordered lists */
+}
