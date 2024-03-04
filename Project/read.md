@@ -1,1 +1,1 @@
-A few pictures were added to the HTML code. Additionally, in the tags challenge, several links were included to read news about cybersecurity.
+tags chalange deleted code will be used for other assesment
