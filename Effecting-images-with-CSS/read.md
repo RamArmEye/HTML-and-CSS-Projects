@@ -1,1 +1,1 @@
-this is for my website, lessons to learn : Effecting Images with CSS
+this is for my website, lessons to learn : Effecting Images with CSS.
