@@ -1,0 +1,26 @@
+/* one_page_website.css */
+
+/* Style for form inputs */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 600px; /* Width of the inputs */
+    margin-bottom: 60px; /* Margin between the inputs */
+    border: 10px solid #f10707; /* Border of the inputs */
+    border-radius: 5px; /* Border radius of the inputs */
+    padding: 5px; /* Padding inside the inputs */
+    font-size: 16px; /* Font size of the inputs */
+    font-family: Arial, sans-serif; /* Font family of the inputs */
+}
+
+/* Style for header */
+header h1 {
+    font-family: 'Dancing Script', cursive; /* Font family for header */
+    font-size: 36px; /* Font size for header */
+}
+
+/* Style for footer */
+footer p {
+    font-family: 'Great Vibes', cursive; /* Font family for footer text */
+    font-size: 18px; /* Font size for footer text */
+}
