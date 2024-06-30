@@ -1,2 +1,3 @@
-About, Showtimes and Deals linked to external website 
-Final Bootstrap Assignment
+<p>About, Showtimes and Deals linked to external website</p>
+
+<p>Final Bootstrap Assignment</p>
